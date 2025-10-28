@@ -22,9 +22,9 @@ global.owner = [
 ["235510823915591", "OmarGranda", true]
 ]
 
-global.mods = ["51908027316"]
-global.suittag = ["51908027316"] 
-global.prems = ["51908027316"]
+global.mods = ["51882766223"]
+global.suittag = ["51982766223"] 
+global.prems = ["51982766223"]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
